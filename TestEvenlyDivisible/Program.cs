@@ -13,7 +13,6 @@ namespace TestEvenlyDivisible
                 //TODO : we need to remove below try catch block still we have try parse for each input, not doing any business logic by Exceptions and want to re-try something that may fail.
                 try
                 {
-                invalidRange:
                 invalidLow:                    
                     Console.WriteLine("Please enter the Min value : ");
                     int minNumber;
@@ -46,7 +45,7 @@ namespace TestEvenlyDivisible
                     if (obj.Start > obj.End)
                     {
                         Console.WriteLine("Please Enter the valid values for Min and Max. ");
-                        goto invalidRange;
+                        goto invalidLow;
                     }
                 invalidA:
                     Console.WriteLine("Please enter the vlaue for First Divisible");
