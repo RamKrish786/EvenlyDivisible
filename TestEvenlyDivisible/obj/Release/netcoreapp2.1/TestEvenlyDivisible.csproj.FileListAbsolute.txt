@@ -1,0 +1,10 @@
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\bin\Release\netcoreapp2.1\TestEvenlyDivisible.deps.json
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\bin\Release\netcoreapp2.1\TestEvenlyDivisible.runtimeconfig.json
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\bin\Release\netcoreapp2.1\TestEvenlyDivisible.runtimeconfig.dev.json
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\bin\Release\netcoreapp2.1\TestEvenlyDivisible.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\bin\Release\netcoreapp2.1\TestEvenlyDivisible.pdb
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\obj\Release\netcoreapp2.1\TestEvenlyDivisible.csproj.CoreCompileInputs.cache
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\obj\Release\netcoreapp2.1\TestEvenlyDivisible.AssemblyInfoInputs.cache
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\obj\Release\netcoreapp2.1\TestEvenlyDivisible.AssemblyInfo.cs
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\obj\Release\netcoreapp2.1\TestEvenlyDivisible.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\TestEvenlyDivisible\obj\Release\netcoreapp2.1\TestEvenlyDivisible.pdb

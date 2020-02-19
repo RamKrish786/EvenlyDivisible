@@ -1,0 +1,14 @@
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\EvenlyDivisible.Test.deps.json
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\EvenlyDivisible.Test.runtimeconfig.json
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\EvenlyDivisible.Test.runtimeconfig.dev.json
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\EvenlyDivisible.Test.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\bin\Debug\netcoreapp2.1\EvenlyDivisible.Test.pdb
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\obj\Debug\netcoreapp2.1\EvenlyDivisible.Test.csproj.CoreCompileInputs.cache
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\obj\Debug\netcoreapp2.1\EvenlyDivisible.Test.AssemblyInfoInputs.cache
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\obj\Debug\netcoreapp2.1\EvenlyDivisible.Test.AssemblyInfo.cs
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\obj\Debug\netcoreapp2.1\EvenlyDivisible.Test.dll
+C:\Users\ramkris\source\repos\TestEvenlyDivisible\EvenlyDivisible.Test\obj\Debug\netcoreapp2.1\EvenlyDivisible.Test.pdb
